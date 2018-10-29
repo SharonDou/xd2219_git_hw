@@ -1,0 +1,3 @@
+I am Sharon.
+I want to be a powerful data scientist!
+This is the first edition in the master branch according to requirement 3.
